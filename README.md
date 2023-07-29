@@ -22,3 +22,10 @@ Once the data is gathered, the script downloads it as a CSV file, allowing easy 
 
 ## ❗ Important Note ❗
 Before using the script, make sure you have expanded the comment section on the YouTube video page. The script will extract comments only from the expanded comment section.
+
+
+
+
+# Contribution
+
+Welcome contributions from the community! Currently, `I am unsure how to implement automatic comment loading`. If you have a solution and would like to contribute, please feel free to submit a pull request to the project. I appreciate your help!
