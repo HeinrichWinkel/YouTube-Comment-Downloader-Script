@@ -1,4 +1,4 @@
-# ❗Now working❗
+# ❗Not working❗
 # YouTube Comment Downloader Script
 This repository contains a JavaScript script that downloads comments from a YouTube video page in CSV format. The script extracts the following data from the comment section:
 ```
